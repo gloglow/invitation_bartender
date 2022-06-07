@@ -1,0 +1,39 @@
+*{
+  font-family: '나눔바른고딕 light';
+}
+
+
+body{
+  filter:invert(100%);
+  background-color: black;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+h1{
+  text-align: center;
+  font-family: 'Ink Free';
+  font-size: 6em;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+h2{
+  text-align: center;
+  font-size: 2.5em;
+  margin-bottom: 3em;
+}
+
+h3{
+  text-align:center;
+  font-size: 2em;
+  margin-top: 3em;
+}
+
+li{
+  font-size: 1.1em;
+  margin-left: 21em;
+  margin-right: 21em;
+}
